@@ -1,3 +1,3 @@
-:HL["/cevi-demo/_next/static/chunks/07hjz9m1nzvhm.css","style"]
+:HL["/cevi-demo/_next/static/chunks/0crg.baqq~19_.css","style"]
 :HL["/cevi-demo/_next/static/media/fba5a26ea33df6a3-s.p.0eehd8tgys7nv.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"GVnKNAj55dukQpHjIsoar"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"0lBGMBMbt6M9GJkDYVNEg"}
